@@ -56,7 +56,7 @@ checking_words(text)
 
 # CENTER TEXT FUNC.
 background = Image.open("./image_800.jpg")
-font = ImageFont.truetype("Candara.ttf", 30)
+font = ImageFont.truetype("arial.ttf", 30)
 center_text(background, font, word)
 
 # Getting Mail Address From Mail List
