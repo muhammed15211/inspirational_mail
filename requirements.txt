@@ -1,0 +1,6 @@
+requests
+smtplib
+imghdr
+pandas
+email.message
+PIL
